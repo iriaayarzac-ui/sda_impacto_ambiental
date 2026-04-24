@@ -87,9 +87,9 @@
   <string role="key" value="_name"></string>
   <unicode value="SdA_SASP_alumnado"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="55"></int>
+  <int value="56"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="19"></int>
+  <int value="21"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -839,7 +839,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="246"></int>
+                  <int value="259"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -853,7 +853,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="39_129_2.2"></unicode>
+                <unicode value="39_129_2.6"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="15">
                  <dictionary>
@@ -864,7 +864,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="R1.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\maria\\appdata\\local\\temp\\tmpcgtpnj\\R1.png"></string>
+                  <string value="c:\\users\\maria\\appdata\\local\\temp\\tmphjldlh\\R1.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="430d99d4daad241a13ff7c507b91af57"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -891,7 +891,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="247"></int>
+                  <int value="260"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -905,7 +905,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="39_129_2.3"></unicode>
+                <unicode value="39_129_2.7"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="16">
                  <dictionary>
@@ -916,7 +916,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="R2.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\maria\\appdata\\local\\temp\\tmpcgtpnj\\R2.png"></string>
+                  <string value="c:\\users\\maria\\appdata\\local\\temp\\tmphjldlh\\R2.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="1a8cc749c951aed220b0f1cb72f841c1"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -945,7 +945,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="4"></int>
+           <int value="8"></int>
            <string role="key" value="parentNode"></string>
            <reference key="3"></reference>
           </dictionary>
@@ -1203,6 +1203,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;1. Definid el objetivo&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Antes de empezar, debéis tener claro qué queréis contar sobre vuestro producto (impacto, problemas y soluciones) y a quién va dirigida la infografía (compañeros/as, familias, otros cursos…).&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;2. Planificad antes de diseñar&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;No empecéis directamente en la herramienta digital, elaborad un boceto o esquema previo (en papel o digital) y organizad la información en apartados (impacto, ciclo de vida, mejoras…).&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;3. Búsqueda de información fiable&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Utilizad fuentes fiables (webs oficiales, artículos, organismos), respetad los derechos de autor: no copiéis textos ni imágenes sin citar la fuente y evitad el “copiar y pegar”: debéis comprender y reformular la información.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;4. Seguridad digital&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;No compartáis datos personales.&lt;br /&gt;Utilizad herramientas digitales seguras y recomendadas (Canva, Genially…).&lt;br /&gt;Acceded únicamente a páginas web fiables.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;5. Tratamiento de la información&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Seleccionad la información más relevante, clasificadla en bloques claros y sintetizadla: la infografía debe ser visual, no un texto largo.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;6. Trabajo en equipo &lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Repartid roles para organizaros mejor:&lt;/p&gt;
 &lt;ul&gt;
@@ -1248,7 +1250,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="21"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1349,6 +1351,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para elaborar vuestro vídeo, seguid estos pasos y recomendaciones:&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;1. Definid el objetivo&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Antes de grabar, debéis tener claro qué vais a contar (impacto del producto y propuestas sostenibles) y a quién va dirigido el vídeo (compañeros/as, familias, otros cursos…).&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;2. Planificad el contenido&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Antes de empezar a grabar:&lt;/p&gt;
@@ -1407,7 +1411,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="21"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1715,6 +1719,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Explicación breve:&lt;/p&gt;
 &lt;ul&gt;
@@ -1750,7 +1756,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="29"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1851,6 +1857,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000080;&quot;&gt;&lt;strong&gt;Tipo I (ISO 14024) – Certificadas por organismos oficiales&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Son las más fiables, ya que están verificadas por una entidad independiente.&lt;/p&gt;
 &lt;p&gt;Etiqueta Ecológica Europea (Ecolabel): identifica productos con menor impacto ambiental en la Unión Europea.&lt;br /&gt;Ángel Azul (Blauer Engel): certifica productos sostenibles en Alemania.&lt;br /&gt;FSC (Forest Stewardship Council): garantiza que la madera o el papel proceden de bosques gestionados de forma sostenible.&lt;br /&gt;Distintivo de Garantía de Calidad Ambiental (España): reconoce productos y servicios respetuosos con el medioambiente.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #000080;&quot;&gt;&lt;strong&gt;Tipo II (ISO 14021) – Autodeclaraciones del fabricante&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;No están verificadas por terceros, por lo que su fiabilidad es menor.&lt;/p&gt;
@@ -1878,7 +1886,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="29"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2006,6 +2014,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;Tarea final:&lt;/strong&gt;&lt;/span&gt; Finalización de la infografía y planteamiento y realización del vídeo (1–2 min). &lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2030,7 +2040,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="34"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2158,6 +2168,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000080;&quot;&gt;&lt;strong&gt;DATOS GENERALES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Grupo:&lt;br /&gt;Integrantes:&lt;br /&gt;Fecha:&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;1. DESCRIPCIÓN DEL PRODUCTO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -2195,7 +2207,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="37"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2296,6 +2308,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000080;&quot;&gt;&lt;strong&gt;DATOS GENERALES&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Producto elegido&lt;br /&gt;Duración aproximada: 1–2 minutos&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;1. INTRODUCCIÓN&lt;/strong&gt;&lt;/span&gt; (10–15 segundos)&lt;br /&gt;Presentad el producto&lt;/p&gt;
@@ -2335,7 +2349,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="37"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2869,6 +2883,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Utiliza estas actividades para comprobar tus conocimientos sobre este tema.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2893,7 +2909,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="49"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3093,7 +3109,7 @@ completed."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="49"></reference>
                </dictionary>
               </instance>
               <string role="key" value="_author"></string>
@@ -3181,7 +3197,7 @@ ser ambiguas."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="feedbackTextArea"></string>
@@ -3223,7 +3239,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="hintTextArea"></string>
@@ -3264,7 +3280,7 @@ estudiante a responder la pregunta."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -3290,6 +3306,8 @@ ser ambiguas."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Elegir productos de cercanía.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3314,7 +3332,7 @@ ser ambiguas."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="feedbackTextArea"></string>
@@ -3332,6 +3350,8 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3354,7 +3374,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="hintTextArea"></string>
@@ -3371,6 +3391,8 @@ estudiante a responder la pregunta."></unicode>
                    <unicode value="Hint"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3393,7 +3415,7 @@ estudiante a responder la pregunta."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -3419,6 +3441,8 @@ ser ambiguas."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Realizar compras compulsivas y adquirir más de lo que necesitamos.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3443,7 +3467,7 @@ ser ambiguas."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="feedbackTextArea"></string>
@@ -3461,6 +3485,8 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3483,7 +3509,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="hintTextArea"></string>
@@ -3500,6 +3526,8 @@ estudiante a responder la pregunta."></unicode>
                    <unicode value="Hint"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3522,7 +3550,7 @@ estudiante a responder la pregunta."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -3548,6 +3576,8 @@ ser ambiguas."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt; Comprar los productos con embalaje excesivo.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3572,7 +3602,7 @@ ser ambiguas."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="feedbackTextArea"></string>
@@ -3590,6 +3620,8 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3612,7 +3644,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="hintTextArea"></string>
@@ -3629,6 +3661,8 @@ estudiante a responder la pregunta."></unicode>
                    <unicode value="Hint"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3651,7 +3685,7 @@ estudiante a responder la pregunta."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="49"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -3748,6 +3782,8 @@ estudiante a responder la pregunta."></unicode>
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;relaciona-IDevice&quot;&gt;&lt;div class=&quot;relaciona-instructions gameQP-instructions&quot;&gt;&lt;p&gt;Relaciona cada tarjeta con su pareja.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;relaciona-DataGame js-hidden&quot;&gt;{&quot;typeGame&quot;:&quot;Relaciona&quot;,&quot;author&quot;:&quot;&quot;,&quot;randomCards&quot;:true,&quot;instructions&quot;:&quot;&lt;p&gt;Relaciona cada tarjeta con su pareja.&lt;/p&gt;&quot;,&quot;showMinimize&quot;:false,&quot;itinerary&quot;:{&quot;showClue&quot;:false,&quot;clueGame&quot;:&quot;&quot;,&quot;percentageClue&quot;:40,&quot;showCodeAccess&quot;:false,&quot;codeAccess&quot;:&quot;&quot;,&quot;messageCodeAccess&quot;:&quot;&quot;},&quot;cardsGame&quot;:[{&quot;url&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;Huella%20de%20carbono%20personal&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Representa%20una%20medida%20del%20aporte%20a%20los%20gases%20de%20efecto%20invernadero%20de%20todas%20las%20actividades%20que%20realiza%20una%20persona.&quot;},{&quot;url&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;Huella%20de%20carbono%20corporativa&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Mide%20la%20totalidad%20de%20GEI%20provenientes%2C%20directa%20o%20indirectamente%2C%20del%20desarrollo%20de%20la%20actividad%20de%20una%20empresa%20o%20entidad.&quot;},{&quot;url&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;Huella%20de%20carbono%20de%20un%20producto&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Mide%20las%20emisiones%20de%20GEI%20a%20lo%20largo%20de%20todo%20el%20ciclo%20de%20vida%20de%20un%20producto%2C%20desde%20la%20extracci%C3%B3n%20de%20materias%20primas%2C%20fabricaci%C3%B3n%2C%20distribuci%C3%B3n%2C%20uso%20y%20hasta%20el%20final%20de%20la%20vida%20%C3%BAtil.&quot;},{&quot;url&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;Huella%20de%20carbono%20de%20un%20evento&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Mide%20las%20emisiones%20de%20GEI%20que%20se%20producen%20durante%20la%20planificaci%C3%B3n%20y%20celebraci%C3%B3n%20de%20un%20evento.%20Tiene%20en%20cuenta%20aspectos%20como%20el%20transporte%2C%20iluminaci%C3%B3n%2C%20aire%20acondicionado%2C%20residuos%20pl%C3%A1sticos%2C%20papel%2C%20alimentaci%C3%B3n%2C%20etc.&quot;},{&quot;url&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;Huella%20de%20carbono%20territorial&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Mide%20las%20emisiones%20de%20GEI%20de%20un%20%C3%A1rea%20geogr%C3%A1fica%20espec%C3%ADfica.%20Permite%20tomar%20decisiones%20y%20establecer%20planes%20para%20mitigar%20el%20impacto%20ambiental%20en%20un%20territorio.&quot;},{&quot;url&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;Huella%20de%20carbono%20de%20una%20industria&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Mide%20la%20huella%20de%20carbono%20de%20un%20sector%20concreto%3A%20construcci%C3%B3n%2C%20industria%20textil%2C%20industria%20alimentaria%2C%20etc.&quot;}],&quot;isScorm&quot;:0,&quot;textButtonScorm&quot;:&quot;Guardar la puntuación&quot;,&quot;repeatActivity&quot;:false,&quot;textAfter&quot;:&quot;&quot;,&quot;version&quot;:1.3,&quot;percentajeCards&quot;:100,&quot;type&quot;:0,&quot;showSolution&quot;:true,&quot;timeShowSolution&quot;:3,&quot;time&quot;:3,&quot;evaluation&quot;:false,&quot;evaluationID&quot;:&quot;&quot;,&quot;id&quot;:&quot;2026420113020-120&quot;,&quot;msgs&quot;:{&quot;msgSubmit&quot;:&quot;Enviar&quot;,&quot;msgClue&quot;:&quot;¡Genial! La pista es:&quot;,&quot;msgCodeAccess&quot;:&quot;Código de acceso&quot;,&quot;msgPlayStart&quot;:&quot;Pulse aquí para jugar&quot;,&quot;msgScore&quot;:&quot;Puntuación&quot;,&quot;msgErrors&quot;:&quot;Errores&quot;,&quot;msgHits&quot;:&quot;Aciertos&quot;,&quot;msgMinimize&quot;:&quot;Minimizar&quot;,&quot;msgMaximize&quot;:&quot;Maximizar&quot;,&quot;msgFullScreen&quot;:&quot;Pantalla Completa&quot;,&quot;msgExitFullScreen&quot;:&quot;Salir del modo pantalla completa&quot;,&quot;msgNoImage&quot;:&quot;Pregunta sin imágenes&quot;,&quot;msgEndGameScore&quot;:&quot;Antes de guardar la puntuación comience la partida.&quot;,&quot;msgScoreScorm&quot;:&quot;La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.&quot;,&quot;msgOnlySaveScore&quot;:&quot;¡Sólo puede guardar la puntuación una vez!&quot;,&quot;msgOnlySave&quot;:&quot;Sólo puede guardar una vez&quot;,&quot;msgInformation&quot;:&quot;Información&quot;,&quot;msgYouScore&quot;:&quot;Su puntuación&quot;,&quot;msgAuthor&quot;:&quot;Autoría&quot;,&quot;msgOnlySaveAuto&quot;:&quot;Su puntuación se guardará después de cada pregunta. Sólo puede jugar una vez.&quot;,&quot;msgSaveAuto&quot;:&quot;Su puntuación se guardará automáticamente después de cada pregunta.&quot;,&quot;msgSeveralScore&quot;:&quot;Puede guardar la puntuación tantas veces como quiera&quot;,&quot;msgYouLastScore&quot;:&quot;La última puntuación guardada es&quot;,&quot;msgActityComply&quot;:&quot;Ya ha realizado esta actividad.&quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Puede realizar esta actividad cuantas veces quiera&quot;,&quot;msgClose&quot;:&quot;Cerrar&quot;,&quot;msgAudio&quot;:&quot;Audio&quot;,&quot;msgNumQuestions&quot;:&quot;Número de tarjetas&quot;,&quot;msgTryAgain&quot;:&quot;Necesita al menos un %s% de respuestas correctas para conseguir la información. Vuelva a intentarlo.&quot;,&quot;msgEndGameM&quot;:&quot;Has completado el juego. Tu puntuación es %s.&quot;,&quot;msgUncompletedActivity&quot;:&quot;Actividad no completada&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Actividad superada. Puntuación: %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Actividad no superada. Puntuación: %s&quot;,&quot;msgTypeGame&quot;:&quot;Relaciona&quot;,&quot;msgCheck&quot;:&quot;Comprobar&quot;,&quot;msgRestart&quot;:&quot;Reiniciar&quot;}}&lt;/div&gt;&lt;div class=&quot;relaciona-bns js-hidden&quot;&gt;Su navegador no es compatible con esta herramienta.&lt;/div&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3772,7 +3808,7 @@ estudiante a responder la pregunta."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="49"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3821,16 +3857,204 @@ estudiante a responder la pregunta."></unicode>
            <list></list>
           </dictionary>
          </instance>
+         <instance class="exe.engine.node.Node" reference="70">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Glosario de términos"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="68">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="69">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="127_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="68"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Análisis del ciclo de vida (ACV):&lt;/strong&gt; método que evalúa el impacto ambiental de un producto en todas sus fases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cadena de suministro:&lt;/strong&gt; conjunto de procesos desde la producción hasta la entrega del producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cambio climático:&lt;/strong&gt; alteración del clima global provocada principalmente por la actividad humana.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Certificación ambiental:&lt;/strong&gt; verificación por una entidad independiente de que se cumplen criterios ambientales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ciclo de vida del producto:&lt;/strong&gt; etapas por las que pasa un producto desde la obtención de materias primas hasta su eliminación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compostaje:&lt;/strong&gt; proceso de descomposición de residuos orgánicos para obtener abono natural.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consumo energético:&lt;/strong&gt; cantidad de energía utilizada por un producto o actividad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consumo responsable:&lt;/strong&gt; elección de productos teniendo en cuenta su impacto ambiental y social.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Economía circular:&lt;/strong&gt; modelo que reduce residuos mediante la reutilización, reciclaje y aprovechamiento de recursos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Economía lineal:&lt;/strong&gt; modelo tradicional basado en “producir, usar y tirar”.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ecoetiqueta:&lt;/strong&gt; distintivo que informa sobre el impacto ambiental de un producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Eficiencia energética:&lt;/strong&gt; uso optimizado de la energía para reducir consumo e impacto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emisiones:&lt;/strong&gt; liberación de gases o contaminantes al medioambiente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energías no renovables:&lt;/strong&gt; fuentes de energía limitadas (petróleo, carbón, gas).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energías renovables:&lt;/strong&gt; fuentes de energía que se regeneran de forma natural (solar, eólica, hidráulica).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gases de efecto invernadero (GEI):&lt;/strong&gt; gases que retienen el calor en la atmósfera (CO₂, metano…).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gestión de residuos:&lt;/strong&gt; conjunto de acciones para recoger, tratar y eliminar residuos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Huella de carbono:&lt;/strong&gt; cantidad de gases de efecto invernadero emitidos por una actividad o producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Huella ecológica:&lt;/strong&gt; medida del impacto humano sobre los recursos naturales del planeta.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Huella hídrica:&lt;/strong&gt; volumen total de agua utilizado para producir un bien o servicio.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto ambiental:&lt;/strong&gt; conjunto de efectos que una actividad o producto produce sobre el medioambiente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Movilidad sostenible:&lt;/strong&gt; formas de transporte que reducen el impacto ambiental (bicicleta, transporte público…).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Normativa ambiental:&lt;/strong&gt; conjunto de leyes destinadas a proteger el medioambiente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obsolescencia programada:&lt;/strong&gt; diseño de productos con una vida útil limitada para fomentar su sustitución.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Producción sostenible:&lt;/strong&gt; fabricación de bienes minimizando el impacto ambiental.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reciclaje:&lt;/strong&gt; transformación de residuos en nuevos productos o materiales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reducción:&lt;/strong&gt; disminución del consumo de recursos y generación de residuos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsabilidad social corporativa (RSC):&lt;/strong&gt; compromiso de las empresas con el desarrollo sostenible y la sociedad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Residuos:&lt;/strong&gt; materiales o productos que se desechan tras su uso.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reutilización:&lt;/strong&gt; uso de un producto varias veces sin transformarlo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sostenibilidad:&lt;/strong&gt; capacidad de satisfacer las necesidades actuales sin comprometer las de las futuras generaciones.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Valorización:&lt;/strong&gt; aprovechamiento de residuos para obtener energía o nuevos materiales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vertedero:&lt;/strong&gt; lugar donde se depositan residuos sin aprovechamiento.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="69"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="70"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="55"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="70"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="20"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="13"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Del%20consumo%20al%20impacto%3A%20%C2%BFes%20sostenible%20mi%20producto%3F:Material%20de%20apoyo:Glosario%20de%20t%C3%A9rminos"></string>
+           <string role="key" value="parent"></string>
+           <reference key="37"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="70">
+      <instance class="exe.engine.node.Node" reference="73">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Atribución y fichero descargable"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="68">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="71">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Download source file"></unicode>
@@ -3891,12 +4115,12 @@ estudiante a responder la pregunta."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="69">
+            <instance class="exe.engine.field.TextAreaField" reference="72">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="129_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="68"></reference>
+              <reference key="71"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3941,7 +4165,7 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="69"></reference>
+                <reference key="72"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3949,7 +4173,7 @@ estudiante a responder la pregunta."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="70"></reference>
+              <reference key="73"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3966,7 +4190,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="70"></reference>
+           <reference key="73"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4015,8 +4239,10 @@ estudiante a responder la pregunta."></unicode>
    <reference key="34"></reference>
    <unicode role="key" value="18"></unicode>
    <reference key="21"></reference>
-   <unicode role="key" value="7"></unicode>
+   <unicode role="key" value="20"></unicode>
    <reference key="70"></reference>
+   <unicode role="key" value="7"></unicode>
+   <reference key="73"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -4027,7 +4253,7 @@ estudiante a responder la pregunta."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="34"></reference>
+  <reference key="70"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -4399,7 +4625,7 @@ estudiante a responder la pregunta."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="71">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="74">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -4438,7 +4664,7 @@ estudiante a responder la pregunta."></unicode>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="72">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="75">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -4453,7 +4679,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="73">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="76">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -4503,10 +4729,10 @@ estudiante a responder la pregunta."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="71"></reference>
+         <reference key="74"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="72"></reference>
+          <reference key="75"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -4514,7 +4740,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="73"></reference>
+           <reference key="76"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -4941,7 +5167,7 @@ estudiante a responder la pregunta."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="74">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="77">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -4980,7 +5206,7 @@ estudiante a responder la pregunta."></unicode>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="75">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="78">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -4995,7 +5221,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="76">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="79">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -5045,10 +5271,10 @@ estudiante a responder la pregunta."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="74"></reference>
+         <reference key="77"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="75"></reference>
+          <reference key="78"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -5056,7 +5282,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="76"></reference>
+           <reference key="79"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
